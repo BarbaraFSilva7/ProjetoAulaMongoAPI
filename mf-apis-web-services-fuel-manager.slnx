@@ -1,9 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="Any CPU" />
-    <Platform Name="x64" />
-  </Configurations>
-  <Project Path="mf-apis-web-services-fuel-manager/mf-apis-web-services-fuel-manager.csproj">
-    <Platform Solution="*|x64" Project="x64" />
-  </Project>
-</Solution>
