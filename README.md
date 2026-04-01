@@ -1,0 +1,1 @@
+Este projeto é uma API de exemplo construída para aprendizado pessoal. Para essa criação foi usada .NET 10 e MongoDB, no qual permite gerenciar produtos (CRUD) e demonstra conceitos de integração com banco NoSQL.
